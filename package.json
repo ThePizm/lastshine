@@ -1,0 +1,29 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "main": "lastshine.js",
+  "description": "LastShine Discord Botu",
+  "scripts": {
+    "start": "node lastshine.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.5.1",
+    "quick.db": "^7.1.1",
+    "chalk": "^4.0.0",
+    "moment": "^2.27.0",
+    "gamedig": "^2.0.21",
+    "jimp": "^0.14.0",
+    "moment-duration-format": "^2.2.2",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.1.2",
+    "http": "^0.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "CodAre"
+  ]
+}
